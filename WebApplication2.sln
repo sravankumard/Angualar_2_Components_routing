@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{A34E06CE-13BF-443B-9D2C-671619278ED7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2_Separate_TS_JS", "WebApplication2\Angular2_Separate_TS_JS.csproj", "{A34E06CE-13BF-443B-9D2C-671619278ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
